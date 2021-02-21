@@ -1,8 +1,12 @@
-com/springBoot/BookApplication.java
- com.springBoot.BookApplication
-com/springBoot/Repository/BookRepository.java
- com.springBoot.Repository.BookRepository
-com/springBoot/model/Book.java
- com.springBoot.model.Book
-com/springBoot/Controller/BookController.java
- com.springBoot.Controller.BookController
+com/springboot/BookApplication.java
+ com.springboot.BookApplication
+com/springboot/repository/interfaces/BookRepository.java
+ com.springboot.repository.interfaces.BookRepository
+com/springboot/service/implementations/BookServiceImpl.java
+ com.springboot.service.implementations.BookServiceImpl
+com/springboot/model/Book.java
+ com.springboot.model.Book
+com/springboot/service/interfaces/BookService.java
+ com.springboot.service.interfaces.BookService
+com/springboot/controller/BookController.java
+ com.springboot.controller.BookController
